@@ -1,43 +1,87 @@
-# SOC Alert Triage Lab
+<div align="center">
 
-A small, defensive Python project that reviews **synthetic** authentication events from a CSV file. It flags repeated failed logins from one IP and a successful login that follows repeated failures for the same account and IP.
+# Syed Muhammad Shah
 
-## What it demonstrates
+### Cyber Security Intern @ Zaffre Tech · Aspiring SOC Analyst
+
+`Lahore, Punjab, Pakistan`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuhammadshah1/)
+[![SOC Alert Triage Lab](https://img.shields.io/badge/Featured%20Project-SOC%20Alert%20Triage%20Lab-173B65?style=for-the-badge&logo=github&logoColor=white)](#featured-project)
+
+</div>
+
+---
+
+## About
+
+I'm a cybersecurity intern and aspiring SOC analyst interested in threat detection, incident response, and helping defend systems against evolving attacks. I currently work at **Zaffre Tech** and study cyber security at **The Superior University, Lahore**.
+
+My learning focuses on network security, security fundamentals, reconnaissance and OSINT, AI security, and prompt engineering. I enjoy understanding how systems are probed so I can help identify and investigate threats early.
+
+## Experience
+
+**Cyber Security Intern · Zaffre Tech**  
+February 2026 – Present
+
+Building practical experience in security fundamentals and real-world workflows.
+
+## Education
+
+**The Superior University** · BS, Cyber/Computer Forensics and Counterterrorism  
+September 2025 – September 2029 · CGPA: **3.88**
+
+**Superior College** · ICS, Computer Science  
+April 2023 – May 2025 · Grade: **A**
+
+## Skills & toolkit
+
+| Focus | Skills |
+|---|---|
+| Security | Cybersecurity, networking, ethical hacking fundamentals, OSINT, reconnaissance, AI security |
+| Programming | Python, C, C++, Assembly; HTML/CSS basics |
+| Tools | Kali Linux, PowerShell |
+| Current learning | Threat detection, incident response, SOC alert triage, prompt engineering |
+
+## Featured project
+
+### SOC Alert Triage Lab
+
+An **AI-assisted educational portfolio project**: a defensive Python CLI that reviews fictional authentication events, flags repeated failed logins, and highlights successful logins after repeated failures. It includes configurable thresholds and input validation. The sample data is synthetic; this is not a production detection system.
+
+- **Run:** `python triage.py`
+- **Sample data:** [`data/auth_events.csv`](data/auth_events.csv)
+- **Source:** [`triage.py`](triage.py)
+- **Project details:** [SOC Alert Triage Lab on LinkedIn](https://www.linkedin.com/in/syedmuhammadshah1/details/projects/)
+
+#### What it demonstrates
+
 - Reading and validating structured security-event data
 - Grouping failed logins by source IP and username
 - Applying a configurable alert threshold
-- Correlating a later successful login with earlier failures
-- Communicating severity and findings in a concise console summary
+- Correlating later successful logins with earlier failures
+- Presenting severity and findings in a concise console summary
 
-## Requirements
-- Python 3.9 or newer
-- No third-party packages
+Requirements: Python 3.9 or newer; no third-party packages.
 
-## Run
-From this folder:
+## Featured writing
 
-```bash
-python triage.py
-```
+[**Can AI Chatbots Leak Your Company's Data?**](https://www.linkedin.com/pulse/can-ai-chatbots-leak-your-companys-data-syed-muhammad-shah-b6a9f/) · Article on LinkedIn
 
-Use a different CSV or threshold:
+## Certifications
 
-```bash
-python triage.py data/auth_events.csv --threshold 4
-```
+- Claude Academy: Claude Code 101 · Anthropic
+- Claude Academy: Claude Code in Action · Anthropic
 
-The default threshold is 3. Expected sample findings include a medium alert for `203.0.113.10` and a high alert for account `amina` after repeated failures. The addresses in the dataset are reserved documentation examples, and all events are fictional.
+## Connect
 
-## Input format
-CSV columns: `timestamp` (`YYYY-MM-DD HH:MM:SS`), `username`, `source_ip`, and `event` (`failed_login` or `successful_login`). This is an educational triage exercise, not a production detection system. A real deployment needs log-source validation, time-zone handling, allowlists, tuning, retention controls, and human investigation before any response action.
+- [LinkedIn profile](https://www.linkedin.com/in/syedmuhammadshah1/)
+- [GitHub project files](https://github.com/syedmshah688-boop/syedmshah688-boop)
 
-## Project extension ideas
-- Add Windows Event Log or Linux SSH log parsing
-- Export alerts as JSON
-- Add time-window-based detection
-- Add unit tests and sample edge cases
-- Create a small dashboard with alert counts
+---
 
-## LinkedIn project description
-**SOC Alert Triage Lab | Python** — Built a lightweight defensive log-analysis tool that parses synthetic authentication events, identifies repeated login failures, and correlates successful logins after repeated failures. Added configurable thresholds, input validation, severity labels, and a concise analyst-facing summary. Python · CSV · Authentication Log Analysis · Alert Triage
+<div align="center">
 
+*Open to connecting with cybersecurity professionals, mentors, and peers.*
+
+</div>
