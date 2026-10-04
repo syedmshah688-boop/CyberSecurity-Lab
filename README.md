@@ -1,97 +1,75 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/syedmshah688-boop/syedmshah688-boop/main/assets/linkedin-banner.jpg" width="100%" alt="LinkedIn cybersecurity banner: Unseen. Unknown. Unstoppable."/>
-
-<img src="https://raw.githubusercontent.com/syedmshah688-boop/syedmshah688-boop/main/assets/profile-photo.jpg" width="150" alt="Syed Muhammad Shah profile photo"/>
+<img src="https://raw.githubusercontent.com/syedmshah688-boop/syedmshah688-boop/main/assets/linkedin-banner.jpg" width="100%" alt="Cybersecurity banner: Unseen. Unknown. Unstoppable."/>
 
 # Syed Muhammad Shah
 
-### Cyber Security Intern @ Zaffre Tech · Aspiring SOC Analyst
+### Cyber Security Intern · Aspiring SOC Analyst
 
-**BLUE TEAM · SOC ALERT TRIAGE · DEFENSIVE SECURITY**  
-Lahore, Punjab, Pakistan
+Lahore, Pakistan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuhammadshah1/)
-[![SOC Lab](https://img.shields.io/badge/Featured%20Project-SOC%20Alert%20Triage-075985?style=for-the-badge&logo=github&logoColor=white)](#featured-project)
-[![Certificates](https://img.shields.io/badge/Verified%20Certificates-3-0A66C2?style=for-the-badge&logo=credly&logoColor=white)](#certifications)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuhammadshah1/)
+[![Blue Team](https://img.shields.io/badge/BLUE_TEAM-173B65?style=for-the-badge&logo=shield&logoColor=white)](#blue-team-focus)
+[![SOC Lab](https://img.shields.io/badge/FEATURED_LAB-263746?style=for-the-badge&logo=github&logoColor=white)](#featured-project)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-Cybersecurity intern and aspiring SOC Analyst focused on threat detection, incident response, and defending systems against evolving attacks. I’m currently gaining hands-on experience at **Zaffre Tech** while pursuing a BS in **Cyber/Computer Forensics and Counterterrorism** at **The Superior University, Lahore**.
-
-I enjoy learning how systems are probed so I can help identify and investigate threats early. My current learning areas include network security, ethical hacking fundamentals, reconnaissance and OSINT (including Google Dorking), AI security, and prompt engineering.
+Cybersecurity intern at **Zaffre Tech** and aspiring SOC Analyst. I’m developing practical skills in security monitoring, alert triage, threat investigation, and incident response while pursuing a BS in **Cyber/Computer Forensics and Counterterrorism** at **The Superior University**.
 
 ## Experience
 
-### Cyber Security Intern · Zaffre Tech
-**February 2026 – Present**
+**Cyber Security Intern · Zaffre Tech**  
+February 2026 – Present
 
 Building practical experience in cybersecurity fundamentals and real-world workflows.
 
 ## Education
 
-### The Superior University
-**BS, Cyber/Computer Forensics and Counterterrorism** · September 2025 – September 2029  
-CGPA: **3.88**
+- **The Superior University** — BS, Cyber/Computer Forensics and Counterterrorism · September 2025–September 2029 · CGPA **3.88**
+- **Superior College** — ICS, Computer Science · April 2023–May 2025 · Grade **A**
 
-### Superior College
-**ICS, Computer Science** · April 2023 – May 2025  
-Grade: **A**
+## Verified certifications
 
-## Certifications
+**Claude Code 101** · Anthropic / Claude Academy · September 2026  
+Credential ID: `318869c6f4387b70e625dd73eb266232` · [Verify certificate](https://academy.claude.com/verify/318869c6f4387b70e625dd73eb266232)
 
-All three certifications below include credential IDs and direct verification links.
+**Claude Code in Action** · Anthropic / Claude Academy · September 2026  
+Credential ID: `ddf10824c4648d84cc74f91cd2f77cf8` · [Verify certificate](https://academy.claude.com/verify/ddf10824c4648d84cc74f91cd2f77cf8)
 
-### Claude Code 101
-**Anthropic · Claude Academy** · Issued September 2026  
-**Credential ID:** `318869c6f4387b70e625dd73eb266232`  
-[Verify certificate](https://academy.claude.com/verify/318869c6f4387b70e625dd73eb266232)
+**Introduction to Cybersecurity** · Simplilearn · May 2026 · Expires June 2036  
+Credential ID: `PFrg5t9034b` · [Verify certificate](https://simpli-web.app.link/e/PFrg5t9034b)
 
-### Claude Code in Action
-**Anthropic · Claude Academy** · Issued September 2026  
-**Credential ID:** `ddf10824c4648d84cc74f91cd2f77cf8`  
-[Verify certificate](https://academy.claude.com/verify/ddf10824c4648d84cc74f91cd2f77cf8)
+## Blue team focus
 
-### Introduction to Cybersecurity
-**Simplilearn** · Issued May 2026 · Expires June 2036  
-**Credential ID:** `PFrg5t9034b`  
-[Verify certificate](https://simpli-web.app.link/e/PFrg5t9034b)
+| Security operations | Investigation | Tools |
+|---|---|---|
+| Alert triage, threat detection foundations, incident response foundations, networking | OSINT, reconnaissance, Google Dorking, ethical hacking fundamentals | Kali Linux, PowerShell |
 
-## Blue team skills
-
-| Focus | Skills and tools |
-|---|---|
-| **SOC & defense** | Alert triage, threat detection foundations, incident response foundations, networking, cybersecurity |
-| **Investigation** | OSINT, reconnaissance, Google Dorking, ethical hacking fundamentals |
-| **Tools** | Kali Linux, PowerShell, Microsoft Applications |
-| **Programming** | Python, C, C++, Assembly, HTML/CSS basics |
-| **Foundations** | Object-Oriented Programming, Computer Organization & Assembly Language |
-| **Currently learning** | SOC workflows, AI security, prompt engineering |
+**Programming:** Python · C · C++ · Assembly · HTML/CSS basics  
+**Foundations:** Object-Oriented Programming · Computer Organization & Assembly Language  
+**Currently learning:** SOC workflows · AI security · prompt engineering
 
 ## Featured project
 
-### SOC Alert Triage Lab
+### [SOC Alert Triage Lab](https://github.com/syedmshah688-boop/syedmshah688-boop)
 
-**[Open the project repository](https://github.com/syedmshah688-boop/syedmshah688-boop)**
+A defensive Python command-line lab that analyzes fictional authentication events, flags repeated failed logins, and correlates a later successful login. It includes configurable thresholds and input validation.
 
-An **AI-assisted educational portfolio project**: a defensive Python command-line tool that reviews fictional authentication events, flags repeated failed logins, and highlights successful logins after repeated failures. It includes configurable thresholds and input validation.
+> **Learning project:** the included events are synthetic. This is not a production detection system.
 
-> **Project scope:** The sample data is synthetic. This learning project is not a production detection system.
+| Explore | Link |
+|---|---|
+| Source code | [`triage.py`](triage.py) |
+| Sample events | [`data/auth_events.csv`](data/auth_events.csv) |
+| LinkedIn project | [SOC Alert Triage Lab](https://www.linkedin.com/in/syedmuhammadshah1/details/projects/) |
 
-- **Run it:** `python triage.py`
-- **Sample data:** [Authentication events CSV](data/auth_events.csv)
-- **Source code:** [triage.py](triage.py)
-- **Project on LinkedIn:** [SOC Alert Triage Lab](https://www.linkedin.com/in/syedmuhammadshah1/details/projects/)
+Run with `python triage.py` · Python 3.9+ · No third-party packages
 
-**Blue-team concepts:** validate event data · group failures by source IP and username · apply alert thresholds · correlate a later successful login · summarize findings
-
-Requirements: Python 3.9 or newer; no third-party packages.
-
-## Featured writing
+## Writing
 
 [**Can AI Chatbots Leak Your Company's Data?**](https://www.linkedin.com/pulse/can-ai-chatbots-leak-your-companys-data-syed-muhammad-shah-b6a9f/) · LinkedIn article
 
@@ -103,6 +81,6 @@ Requirements: Python 3.9 or newer; no third-party packages.
 
 <div align="center">
 
-*Open to connecting with cybersecurity professionals, mentors, and peers.*
+*Cybersecurity · Threat defense · Digital resilience*
 
 </div>
