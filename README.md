@@ -4,10 +4,11 @@
 
 ### Cyber Security Intern @ Zaffre Tech · Aspiring SOC Analyst
 
-`Lahore, Punjab, Pakistan`
+**Lahore, Punjab, Pakistan**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuhammadshah1/)
-[![SOC Alert Triage Lab](https://img.shields.io/badge/Featured%20Project-SOC%20Alert%20Triage%20Lab-173B65?style=for-the-badge&logo=github&logoColor=white)](#featured-project)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuhammadshah1/)
+[![Featured project](https://img.shields.io/badge/Featured%20Project-SOC%20Alert%20Triage%20Lab-173B65?style=for-the-badge&logo=github&logoColor=white)](#featured-project)
+[![Certifications](https://img.shields.io/badge/Certifications-3-6A5ACD?style=for-the-badge&logo=credly&logoColor=white)](#certifications)
 
 </div>
 
@@ -15,68 +16,71 @@
 
 ## About
 
-I'm a cybersecurity intern and aspiring SOC analyst interested in threat detection, incident response, and helping defend systems against evolving attacks. I currently work at **Zaffre Tech** and study cyber security at **The Superior University, Lahore**.
+Cybersecurity intern and aspiring SOC Analyst focused on threat detection, incident response, and defending systems against evolving attacks. I’m currently gaining hands-on experience at **Zaffre Tech** while pursuing a BS in **Cyber/Computer Forensics and Counterterrorism** at **The Superior University, Lahore**.
 
-My learning focuses on network security, security fundamentals, reconnaissance and OSINT, AI security, and prompt engineering. I enjoy understanding how systems are probed so I can help identify and investigate threats early.
+I enjoy learning how systems are probed so I can help identify and investigate threats early. My current learning areas include network security, ethical hacking fundamentals, reconnaissance and OSINT (including Google Dorking), AI security, and prompt engineering.
 
 ## Experience
 
-**Cyber Security Intern · Zaffre Tech**  
-February 2026 – Present
+### Cyber Security Intern · Zaffre Tech
+**February 2026 – Present**
 
-Building practical experience in security fundamentals and real-world workflows.
+Building practical experience in cybersecurity fundamentals and real-world workflows.
 
 ## Education
 
-**The Superior University** · BS, Cyber/Computer Forensics and Counterterrorism  
-September 2025 – September 2029 · CGPA: **3.88**
+### The Superior University
+**BS, Cyber/Computer Forensics and Counterterrorism** · September 2025 – September 2029  
+CGPA: **3.88**
 
-**Superior College** · ICS, Computer Science  
-April 2023 – May 2025 · Grade: **A**
+### Superior College
+**ICS, Computer Science** · April 2023 – May 2025  
+Grade: **A**
+
+## Certifications
+
+Credentials below link to their issuer verification pages.
+
+| Certification | Issuer | Issued | Credential |
+|---|---|---|---|
+| [Claude Code 101](https://academy.claude.com/verify/318869c6f4387b70e625dd73eb266232) | Anthropic · Claude Academy | September 2026 | `318869c6f4387b70e625dd73eb266232` |
+| [Claude Code in Action](https://academy.claude.com/verify/ddf10824c4648d84cc74f91cd2f77cf8) | Anthropic · Claude Academy | September 2026 | `ddf10824c4648d84cc74f91cd2f77cf8` |
+| [Introduction to Cybersecurity](https://simpli-web.app.link/e/PFrg5t9034b) | Simplilearn | May 2026 · Expires June 2036 | `PFrg5t9034b` |
 
 ## Skills & toolkit
 
-| Focus | Skills |
+| Area | Skills and tools |
 |---|---|
-| Security | Cybersecurity, networking, ethical hacking fundamentals, OSINT, reconnaissance, AI security |
-| Programming | Python, C, C++, Assembly; HTML/CSS basics |
-| Tools | Kali Linux, PowerShell |
-| Current learning | Threat detection, incident response, SOC alert triage, prompt engineering |
+| **Security** | Cybersecurity, networking, ethical hacking fundamentals, OSINT, reconnaissance, AI security |
+| **Programming** | Python, C, C++, Assembly, HTML/CSS basics |
+| **Tools** | Kali Linux, PowerShell, Microsoft Applications |
+| **Foundations** | Object-Oriented Programming, Computer Organization & Assembly Language |
+| **Currently learning** | Threat detection, incident response, SOC alert triage, prompt engineering |
 
 ## Featured project
 
 ### SOC Alert Triage Lab
 
-An **AI-assisted educational portfolio project**: a defensive Python CLI that reviews fictional authentication events, flags repeated failed logins, and highlights successful logins after repeated failures. It includes configurable thresholds and input validation. The sample data is synthetic; this is not a production detection system.
+An **AI-assisted educational portfolio project**: a defensive Python command-line tool that reviews fictional authentication events, flags repeated failed logins, and highlights successful logins after repeated failures. It includes configurable thresholds and input validation.
 
-- **Run:** `python triage.py`
-- **Sample data:** [`data/auth_events.csv`](data/auth_events.csv)
-- **Source:** [`triage.py`](triage.py)
-- **Project details:** [SOC Alert Triage Lab on LinkedIn](https://www.linkedin.com/in/syedmuhammadshah1/details/projects/)
+> **Project scope:** The sample data is synthetic. This learning project is not a production detection system.
 
-#### What it demonstrates
+- **Run it:** `python triage.py`
+- **Sample data:** [Authentication events CSV](data/auth_events.csv)
+- **Source code:** [triage.py](triage.py)
+- **Project on LinkedIn:** [SOC Alert Triage Lab](https://www.linkedin.com/in/syedmuhammadshah1/details/projects/)
 
-- Reading and validating structured security-event data
-- Grouping failed logins by source IP and username
-- Applying a configurable alert threshold
-- Correlating later successful logins with earlier failures
-- Presenting severity and findings in a concise console summary
+**What it demonstrates:** validating event data · grouping failed logins by source IP and username · threshold-based alerting · correlating later successful logins · summarizing findings
 
 Requirements: Python 3.9 or newer; no third-party packages.
 
 ## Featured writing
 
-[**Can AI Chatbots Leak Your Company's Data?**](https://www.linkedin.com/pulse/can-ai-chatbots-leak-your-companys-data-syed-muhammad-shah-b6a9f/) · Article on LinkedIn
-
-## Certifications
-
-- Claude Academy: Claude Code 101 · Anthropic
-- Claude Academy: Claude Code in Action · Anthropic
+[**Can AI Chatbots Leak Your Company's Data?**](https://www.linkedin.com/pulse/can-ai-chatbots-leak-your-companys-data-syed-muhammad-shah-b6a9f/) · LinkedIn article
 
 ## Connect
 
-- [LinkedIn profile](https://www.linkedin.com/in/syedmuhammadshah1/)
-- [GitHub project files](https://github.com/syedmshah688-boop/syedmshah688-boop)
+[LinkedIn profile](https://www.linkedin.com/in/syedmuhammadshah1/) · [GitHub repository](https://github.com/syedmshah688-boop/syedmshah688-boop)
 
 ---
 
