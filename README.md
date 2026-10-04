@@ -4,11 +4,13 @@
 
 ### Cyber Security Intern @ Zaffre Tech · Aspiring SOC Analyst
 
+<img src="https://raw.githubusercontent.com/syedmshah688-boop/syedmshah688-boop/main/assets/blue-team-banner.svg" width="100%" alt="Animated Blue Team security operations banner"/>
+
 **Lahore, Punjab, Pakistan**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuhammadshah1/)
-[![Featured project](https://img.shields.io/badge/Featured%20Project-SOC%20Alert%20Triage%20Lab-173B65?style=for-the-badge&logo=github&logoColor=white)](#featured-project)
-[![Certifications](https://img.shields.io/badge/Certifications-3-6A5ACD?style=for-the-badge&logo=credly&logoColor=white)](#certifications)
+[![SOC Lab](https://img.shields.io/badge/Blue%20Team%20Lab-SOC%20Alert%20Triage-075985?style=for-the-badge&logo=github&logoColor=white)](#featured-project)
+[![Verified certificates](https://img.shields.io/badge/Verified%20certificates-3-0891B2?style=for-the-badge&logo=credly&logoColor=white)](#certifications)
 
 </div>
 
@@ -39,27 +41,39 @@ Grade: **A**
 
 ## Certifications
 
-Credentials below link to their issuer verification pages.
+All three certifications below have their credential IDs and direct verification links.
 
-| Certification | Issuer | Issued | Credential |
-|---|---|---|---|
-| [Claude Code 101](https://academy.claude.com/verify/318869c6f4387b70e625dd73eb266232) | Anthropic · Claude Academy | September 2026 | `318869c6f4387b70e625dd73eb266232` |
-| [Claude Code in Action](https://academy.claude.com/verify/ddf10824c4648d84cc74f91cd2f77cf8) | Anthropic · Claude Academy | September 2026 | `ddf10824c4648d84cc74f91cd2f77cf8` |
-| [Introduction to Cybersecurity](https://simpli-web.app.link/e/PFrg5t9034b) | Simplilearn | May 2026 · Expires June 2036 | `PFrg5t9034b` |
+### Claude Code 101
+**Anthropic · Claude Academy** · Issued September 2026  
+**Credential ID:** `318869c6f4387b70e625dd73eb266232`  
+[↗ Verify certificate](https://academy.claude.com/verify/318869c6f4387b70e625dd73eb266232)
 
-## Skills & toolkit
+### Claude Code in Action
+**Anthropic · Claude Academy** · Issued September 2026  
+**Credential ID:** `ddf10824c4648d84cc74f91cd2f77cf8`  
+[↗ Verify certificate](https://academy.claude.com/verify/ddf10824c4648d84cc74f91cd2f77cf8)
 
-| Area | Skills and tools |
+### Introduction to Cybersecurity
+**Simplilearn** · Issued May 2026 · Expires June 2036  
+**Credential ID:** `PFrg5t9034b`  
+[↗ Verify certificate](https://simpli-web.app.link/e/PFrg5t9034b)
+
+## Blue team skills
+
+| Focus | Skills and tools |
 |---|---|
-| **Security** | Cybersecurity, networking, ethical hacking fundamentals, OSINT, reconnaissance, AI security |
-| **Programming** | Python, C, C++, Assembly, HTML/CSS basics |
+| **SOC & defense** | Alert triage, threat detection foundations, incident response foundations, networking, cybersecurity |
+| **Investigation** | OSINT, reconnaissance, Google Dorking, ethical hacking fundamentals |
 | **Tools** | Kali Linux, PowerShell, Microsoft Applications |
+| **Programming** | Python, C, C++, Assembly, HTML/CSS basics |
 | **Foundations** | Object-Oriented Programming, Computer Organization & Assembly Language |
-| **Currently learning** | Threat detection, incident response, SOC alert triage, prompt engineering |
+| **Currently learning** | SOC workflows, AI security, prompt engineering |
 
 ## Featured project
 
 ### SOC Alert Triage Lab
+
+**[Open the project repository](https://github.com/syedmshah688-boop/syedmshah688-boop)**
 
 An **AI-assisted educational portfolio project**: a defensive Python command-line tool that reviews fictional authentication events, flags repeated failed logins, and highlights successful logins after repeated failures. It includes configurable thresholds and input validation.
 
@@ -70,7 +84,7 @@ An **AI-assisted educational portfolio project**: a defensive Python command-lin
 - **Source code:** [triage.py](triage.py)
 - **Project on LinkedIn:** [SOC Alert Triage Lab](https://www.linkedin.com/in/syedmuhammadshah1/details/projects/)
 
-**What it demonstrates:** validating event data · grouping failed logins by source IP and username · threshold-based alerting · correlating later successful logins · summarizing findings
+**Blue-team concepts:** validate event data · group failures by source IP and username · apply alert thresholds · correlate a later successful login · summarize findings
 
 Requirements: Python 3.9 or newer; no third-party packages.
 
@@ -80,7 +94,7 @@ Requirements: Python 3.9 or newer; no third-party packages.
 
 ## Connect
 
-[LinkedIn profile](https://www.linkedin.com/in/syedmuhammadshah1/) · [GitHub repository](https://github.com/syedmshah688-boop/syedmshah688-boop)
+[LinkedIn profile](https://www.linkedin.com/in/syedmuhammadshah1/) · [GitHub project](https://github.com/syedmshah688-boop/syedmshah688-boop)
 
 ---
 
