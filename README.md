@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/syedmshah688-boop/syedmshah688-boop/main/assets/linkedin-banner.jpg" width="100%" alt="LinkedIn cybersecurity banner: Unseen. Unknown. Unstoppable."/>
+
+<img src="https://raw.githubusercontent.com/syedmshah688-boop/syedmshah688-boop/main/assets/profile-photo.jpg" width="150" alt="Syed Muhammad Shah profile photo"/>
+
 # Syed Muhammad Shah
 
 ### Cyber Security Intern @ Zaffre Tech · Aspiring SOC Analyst
