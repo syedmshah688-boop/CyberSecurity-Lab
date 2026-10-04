@@ -4,13 +4,12 @@
 
 ### Cyber Security Intern @ Zaffre Tech · Aspiring SOC Analyst
 
-<img src="https://raw.githubusercontent.com/syedmshah688-boop/syedmshah688-boop/main/assets/blue-team-banner.svg" width="100%" alt="Animated Blue Team security operations banner"/>
+**BLUE TEAM · SOC ALERT TRIAGE · DEFENSIVE SECURITY**  
+Lahore, Punjab, Pakistan
 
-**Lahore, Punjab, Pakistan**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuhammadshah1/)
-[![SOC Lab](https://img.shields.io/badge/Blue%20Team%20Lab-SOC%20Alert%20Triage-075985?style=for-the-badge&logo=github&logoColor=white)](#featured-project)
-[![Verified certificates](https://img.shields.io/badge/Verified%20certificates-3-0891B2?style=for-the-badge&logo=credly&logoColor=white)](#certifications)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmuhammadshah1/)
+[![SOC Lab](https://img.shields.io/badge/Featured%20Project-SOC%20Alert%20Triage-075985?style=for-the-badge&logo=github&logoColor=white)](#featured-project)
+[![Certificates](https://img.shields.io/badge/Verified%20Certificates-3-0A66C2?style=for-the-badge&logo=credly&logoColor=white)](#certifications)
 
 </div>
 
@@ -41,22 +40,22 @@ Grade: **A**
 
 ## Certifications
 
-All three certifications below have their credential IDs and direct verification links.
+All three certifications below include credential IDs and direct verification links.
 
 ### Claude Code 101
 **Anthropic · Claude Academy** · Issued September 2026  
 **Credential ID:** `318869c6f4387b70e625dd73eb266232`  
-[↗ Verify certificate](https://academy.claude.com/verify/318869c6f4387b70e625dd73eb266232)
+[Verify certificate](https://academy.claude.com/verify/318869c6f4387b70e625dd73eb266232)
 
 ### Claude Code in Action
 **Anthropic · Claude Academy** · Issued September 2026  
 **Credential ID:** `ddf10824c4648d84cc74f91cd2f77cf8`  
-[↗ Verify certificate](https://academy.claude.com/verify/ddf10824c4648d84cc74f91cd2f77cf8)
+[Verify certificate](https://academy.claude.com/verify/ddf10824c4648d84cc74f91cd2f77cf8)
 
 ### Introduction to Cybersecurity
 **Simplilearn** · Issued May 2026 · Expires June 2036  
 **Credential ID:** `PFrg5t9034b`  
-[↗ Verify certificate](https://simpli-web.app.link/e/PFrg5t9034b)
+[Verify certificate](https://simpli-web.app.link/e/PFrg5t9034b)
 
 ## Blue team skills
 
